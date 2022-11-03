@@ -1,1 +1,0 @@
-# Pagina-colegio-et12
