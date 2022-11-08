@@ -21,9 +21,10 @@ class BarraNavegacion extends HTMLElement {
         <!-- <li class="main">
                   <a>Institución</a>
               </li> -->
-        <li class="submenu">
-          <a href="autoridades.html">Autoridades</a>
-        </li>
+              <li class="submenu">
+              <a href="especialidades.html">Especialidades</a>
+            </li>
+        
         <li class="submenu">
           <a href="historia.html">Historia</a>
         </li>
@@ -36,9 +37,9 @@ class BarraNavegacion extends HTMLElement {
         <!-- <li class="main">
                   <a>Alumnos</a>
               </li> -->
-        <li class="submenu">
-          <a href="especialidades.html">Especialidades</a>
-        </li>
+              <li class="submenu">
+              <a href="autoridades.html">Autoridades</a>
+            </li>
         <li class="submenu">
           <a href="inscripcion.html">Inscripciones</a>
         </li>
